@@ -1,6 +1,3 @@
-Here is a `README.md` file for the repository:
-
-```markdown
 # Credly IBM Badges
 
 ![GitHub issues](https://img.shields.io/github/issues/skunkworksza/credly)
@@ -87,6 +84,3 @@ Connect with us on social media:
 - [Twitter](https://twitter.com/skunkworksza)
 - [LinkedIn](https://www.linkedin.com/company/skunkworksza)
 - [Facebook](https://www.facebook.com/skunkworksza)
-```
-
-This README file includes GitHub badges, links to IBM and Credly GitHub repositories, the purpose of the repository, best practices, code of conduct, and instructions for getting started.
